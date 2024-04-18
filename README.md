@@ -1,1 +1,1 @@
-![alt text](dodger.jpg)
+![alt text](images/dodger.jpg)
